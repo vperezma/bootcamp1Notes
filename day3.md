@@ -3,6 +3,7 @@ Bootcamp 1 Day 3
 ##Goal for the day: Learn more about about the most commonly used tags in html. By the end of the night you should be able to identify and explain each tag. 
 
 
+
 ```````html
 <!DOCTYPE html>
 <html lang="en">
@@ -41,14 +42,16 @@ Bootcamp 1 Day 3
 </body>
 </html>
 ``````
-1.Find a partner.
-2.get tag assigned.
-3. go to w3schools.com or any other website that defines tags and their uses. 
-4.Create an example of your tag in your editor, you will be presenting in front of the class. 
 
-2 main questions to answer:
-1. what is the definition of the tag? 
-2. what is it used for? 
+
+1. Find a partner.
+2. Get tag assigned.
+3. Go to w3schools.com or any other website that defines tags and their uses. 
+4. Create an example of your tag in your editor, you will be presenting in front of the class. 
+
+#2 main questions to answer:
+1. What is the definition of the tag? 
+2. What is it used for? 
 3. Can your tag include attributes? If so which ones?
 
 
@@ -56,7 +59,7 @@ Bootcamp 1 Day 3
 Linking with an Anchor tag (with Vanessa)
 --------------------------
 
-1.linking within 1 window.
-2.link opening in new window
-3.linking an e-mail 
-4.linking a local file (file from 2-18-15)
+1. Linking within 1 window.
+2. Link opening in new window
+3. Linking an e-mail 
+4. Linking a local file (file from 2-18-15)
