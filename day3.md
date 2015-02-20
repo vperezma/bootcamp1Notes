@@ -42,14 +42,13 @@ Bootcamp 1 Day 3
 </body>
 </html>
 ``````
-
-
+#Assignment
 1. Find a partner.
 2. Get tag assigned.
 3. Go to w3schools.com or any other website that defines tags and their uses. 
 4. Create an example of your tag in your editor, you will be presenting in front of the class. 
 
-#2 main questions to answer:
+#3 main questions to answer:
 1. What is the definition of the tag? 
 2. What is it used for? 
 3. Can your tag include attributes? If so which ones?
