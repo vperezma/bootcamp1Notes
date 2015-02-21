@@ -1,5 +1,7 @@
 Bootcamp 1 Day 3
 ----------------
++ Go over the folder structure. 
+
 ##Goal for the day: Learn more about about the most commonly used tags in html. By the end of the night you should be able to identify and explain each tag. 
 
 
