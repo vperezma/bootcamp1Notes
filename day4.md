@@ -87,10 +87,8 @@ Using what we learned the previous day we will create the standard HTML mark up.
 | --------------- |:-------------:| 
 | `<body></body>` | `body{`       |
 |				  |	 `}`          |
-|-----------------|---------------|
 | `id="hero"`     | `#hero {`     |		
-|                 |	`}`           |
-|-----------------|---------------|  
+|                 |	`}`           | 
 |`class="content"`| `.content{`   |
 |                 |	`}`           | 
 |-----------------|---------------|   
