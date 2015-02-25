@@ -3,12 +3,12 @@ Bootcamp 1 Day 4
 
 #Work on the assignment below:
 
-Using what you learned the previous day create the standard HTML mark up. 
+Using what we learned the previous day we will create the standard HTML mark up. 
 
-+ Go over file structure and setting up the folders. 
++ Go over file structure and set up the folders. 
 + tag nesting (makes everything cleaner).
 
-####The code below 	
+####The code below shows an example of nesting.	
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -72,8 +72,8 @@ Using what you learned the previous day create the standard HTML mark up.
 </body>
 </html>
 ```
- ###best practices in coding.
-	good and bad practices
+ ### Best practices in coding.
+	[good and bad practices](http://learn.shayhowe.com/html-css/writing-your-best-code/)
 ### Let's look at some popular websites with out their style sheets.
 + We will look into a few sites and remove all the styling from them.
 	+ [craiglist](https://fresno.craigslist.org/)
