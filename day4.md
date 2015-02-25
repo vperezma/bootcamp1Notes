@@ -36,7 +36,7 @@ Using what we learned the previous day we will create the standard HTML mark up.
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi, quo ad, eaque doloremque placeat voluptas accusamus aut qui ea sed, ab culpa iusto officia expedita quia animi! Quidem omnis, fugiat!</p>
 
           <h2>Favorites:</h2>
-          <ul>
+          <ul class="tvList">
                <li>TV Shows</li>
                     <ol>
                          <li><a href="http://abc.go.com/shows/shark-tank">Shark Tank</a></li>
@@ -70,13 +70,13 @@ Using what we learned the previous day we will create the standard HTML mark up.
 </body>
 </html>
 ```
- ### Best practices in coding.
+##Best practices in coding.
 	[good and bad practices](http://learn.shayhowe.com/html-css/writing-your-best-code/)
-### Let's look at some popular websites with out their style sheets.
+### Let's look at some popular websites without their style sheets.
 + We will look into a few sites and remove all the styling from them.
 	+ [craiglist](https://fresno.craigslist.org/)
 	+ [This is an example of bad HTML code](http://www.highcallingcockers.com/)
-	+ [This is an example of good HTML code](http://transferwindow.info/)
-+ Create a skeleton site with all the attributes. 
-+ introduction to validator.     
-+ intro to css
+	+ [This is an example of good HTML code](https://www.missionbicycle.com/)
++ introduction to validator.(With Sara)
+	+ [click this to go to a validator](http://validator.w3.org/#validate_by_uri)     
++ intro to css (with Sara)
