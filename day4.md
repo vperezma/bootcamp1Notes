@@ -70,8 +70,8 @@ Using what we learned the previous day we will create the standard HTML mark up.
 </body>
 </html>
 ```
-##Best practices in coding.
-	[good and bad practices](http://learn.shayhowe.com/html-css/writing-your-best-code/)
+###Best practices in coding.
+	+ [good and bad practices](http://learn.shayhowe.com/html-css/writing-your-best-code/)
 ### Let's look at some popular websites without their style sheets.
 + We will look into a few sites and remove all the styling from them.
 	+ [craiglist](https://fresno.craigslist.org/)
