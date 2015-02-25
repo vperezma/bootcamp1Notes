@@ -83,14 +83,14 @@ Using what we learned the previous day we will create the standard HTML mark up.
 + intro to css (with Sara)
 
 ###Targeting HTML elements in CSS
-|   HTML        |  CSS          | 
-| ------------- |:-------------:| 
-| `<body></body>` | `body{
-	
-						   	}` |
-| `id="hero"`     | `#hero {
-		
-						}`      |  
-| `class="content"`| `.content{
-	
-						}`      |    
+|   HTML          |  CSS          | 
+| --------------- |:-------------:| 
+| `<body></body>` | `body{        |
+|	              |               |
+|				  |	 }`           |
+| `id="hero"`     | `#hero {      |
+|                 |               |		
+|                 |	}`            |  
+|`class="content"`| `.content{    |
+|	              |               |
+|                 |	}`            |    
