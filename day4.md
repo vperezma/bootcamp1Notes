@@ -81,3 +81,16 @@ Using what we learned the previous day we will create the standard HTML mark up.
 + introduction to validator.(With Sara)
 	+ [click this to go to a validator](http://validator.w3.org/#validate_by_uri)     
 + intro to css (with Sara)
+
+###Targeting HTML elements in CSS
+|   HTML        |  CSS          | 
+| ------------- |:-------------:| 
+| `<body></body>` | `body{
+	
+						   	}` |
+| `id="hero"`     | `#hero {
+		
+						}`      |  
+| `class="content"`| `.content{
+	
+						}`      |    
