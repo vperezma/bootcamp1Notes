@@ -3,7 +3,9 @@ Bootcamp 1 Day 4
 
 Using what we learned the previous day we will create the standard HTML mark up. 
 
-+ Go over file structure and set up the folders. 
+
++ Review linking with anchor tags. 
++ Fill out HTML Cheatsheet.
 + tag nesting (makes everything cleaner).
 
 ####The code below shows an example of nesting.	
