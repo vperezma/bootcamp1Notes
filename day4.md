@@ -86,11 +86,11 @@ Using what we learned the previous day we will create the standard HTML mark up.
 |   HTML          |  CSS          | 
 | --------------- |:-------------:| 
 | `<body></body>` | `body{`       |
-|	              |               |
 |				  |	 `}`          |
-| `id="hero"`     | `#hero {`     |
-|                 |               |		
-|                 |	`}`           |  
+|-----------------|---------------|
+| `id="hero"`     | `#hero {`     |		
+|                 |	`}`           |
+|-----------------|---------------|  
 |`class="content"`| `.content{`   |
-|	              |               |
-|                 |	`}`           |    
+|                 |	`}`           | 
+|-----------------|---------------|   
