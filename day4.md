@@ -1,8 +1,6 @@
 Bootcamp 1 Day 4
 ================
 
-#Work on the assignment below:
-
 Using what we learned the previous day we will create the standard HTML mark up. 
 
 + Go over file structure and set up the folders. 
