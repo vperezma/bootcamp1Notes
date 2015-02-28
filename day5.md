@@ -8,7 +8,7 @@ Bootcamp 1 Day 5
 ##CSS review
 	- What are some of the CSS styles we went over last Wednesday?
 	- How do you style a border in CSS? 
-	-What are the three ways you can connect your CSS to your HTML?
+	- What are the three ways you can connect your CSS to your HTML?
 
 -6:15 - 6:45: HTML Quiz 
 
@@ -22,4 +22,4 @@ At the end of these next 2 classes we will have a site that looks like this: [ta
 
 -8:30 - 8:45 questions.
 
--8:45 - 9:00 Wrap.
+-8:45 - 9:00 Wrap. 
