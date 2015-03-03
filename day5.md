@@ -12,7 +12,8 @@ Bootcamp 1 Day 5
 
 *6:15 - 6:45: HTML Quiz [HTML Quiz](http://tinyurl.com/lxjewvy)
 
-*6:45 - 7:00 ###TAKE A BREAK!
+*6:45 - 7:00 TAKE A BREAK!
+
 *7:00 - 7:20 
 ###[Let's take another quiz!]()
 
