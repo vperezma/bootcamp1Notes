@@ -22,6 +22,81 @@ Bootcamp 1 Day 5
 *7:20 - 8:30
  ##Setting up a new folder and HTML document from scratch.
 
+ ##HTML code for talk nerdy.
+ ```html
+	<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Talk Nerdy</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+
+	<div class="container">
+		<header>
+			<img src="img/header.png">
+		</header>
+
+		<nav>
+			<ul>
+				<li>
+					<a href="index.html">Home</a>
+				</li>
+				<li>
+					<a href="#">Blog</a>
+				</li>
+				<li>
+					<a href="#">Contact</a>
+				</li>
+			</ul>
+		</nav>
+	</div><!-- /container -->
+
+</body>
+</html>
+
+ ```
+ ##CSS code for talk nerdy.
+ ```CSS
+	.container {
+		width:1000px;
+		margin: 0 auto;
+	}
+
+	header {
+		width:1000px;
+	}
+
+	nav {
+		background-color:#3e7ca5;
+	}
+
+	nav ul {
+		text-align: center;
+	}
+
+	nav ul li {
+		list-style-type: none;
+	}
+
+	a:link {
+		text-decoration: none;
+		color: #fff;
+	}
+
+	a:visited {
+		color: #000;
+	}
+
+	a:hover {
+		color: #999;
+	}
+
+	a:active {
+		color: #CC3300;
+	}
+ ```
+
 <!-- At the end of these next 2 classes we will have a site that looks like this: [talk nerdy](http://www.talknerdy.net) -->
 
 *8:30 - 8:45 questions.
