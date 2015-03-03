@@ -10,9 +10,9 @@ Bootcamp 1 Day 5
 	- How do you style a border in CSS? 
 	- What are the three ways you can connect your CSS to your HTML?
 
-*6:15 - 6:45: HTML Quiz 
+*6:15 - 6:45: HTML Quiz [HTML Quiz](http://tinyurl.com/lxjewvy)
 
-*6:45 - 7:00 **TAKE A BREAK!**
+*6:45 - 7:00 ###TAKE A BREAK!
 *7:00 - 7:20 
 ###[Let's take another quiz!]()
 
