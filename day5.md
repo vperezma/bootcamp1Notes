@@ -17,7 +17,7 @@ Bootcamp 1 Day 5
 *6:45 - 7:00 TAKE A BREAK!
 
 *7:00 - 7:20 
-<!-- ###[Let's take another quiz!](http://tinyurl.com/l6rfgu3) -->
+###[Let's take another quiz!](http://tinyurl.com/l6rfgu3)
 
 *7:20 - 8:30 #Setting up a new folder and HTML document from scratch.
 
