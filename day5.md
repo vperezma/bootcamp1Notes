@@ -12,11 +12,12 @@ Bootcamp 1 Day 5
 
 *6:15 - 6:45: 
 ###[HTML Quiz](http://tinyurl.com/lxjewvy)
+<!-- ###[Answers to the quiz with links to w3school](https://docs.google.com/document/d/1yovPxQSEBlNx_BWmSYRZNcVsdVjhapCbaGN6pwr7c0w/edit) -->
 
 *6:45 - 7:00 TAKE A BREAK!
 
 *7:00 - 7:20 
-###[Let's take another quiz!]()
+<!-- ###[Let's take another quiz!](http://tinyurl.com/l6rfgu3) -->
 
 *7:20 - 8:30 #Setting up a new folder and HTML document from scratch.
 
