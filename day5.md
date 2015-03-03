@@ -19,7 +19,8 @@ Bootcamp 1 Day 5
 *7:00 - 7:20 
 ###[Let's take another quiz!](http://tinyurl.com/l6rfgu3)
 
-*7:20 - 8:30 #Setting up a new folder and HTML document from scratch.
+*7:20 - 8:30
+ ##Setting up a new folder and HTML document from scratch.
 
 <!-- At the end of these next 2 classes we will have a site that looks like this: [talk nerdy](http://www.talknerdy.net) -->
 
