@@ -1,6 +1,6 @@
 #Goal: Get the “Talk Nerdy” homepage completed.
 -6:00 - 6:10 
-	##Recap Monday
+##Recap Monday
 
 	*geek night
 
@@ -31,6 +31,6 @@
 
 8:30 - 8:45
 	##Questions.
-	
+
 8:45 - 9:00 
 	##wrap up.
