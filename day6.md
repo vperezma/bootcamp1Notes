@@ -11,10 +11,10 @@
 - Wordpress support night.
 
 - Psuedo selectors
-	-linking
-	-visited
-	-hover
-	-active
+-- linking
+-- visited
+-- hover
+-- active
 
 ##6:10 - 7:00 continue working on Talk Nerdy website.
 
