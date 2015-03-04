@@ -1,16 +1,16 @@
 #Goal: Get the “Talk Nerdy” homepage completed.
 ##6:00 - 6:10 Recap Monday
 
-	*geek night
+	- geek night
 
-	*freaking brilliant
+	- freaking brilliant
 		-[free pizza, beer and networking.](http://us7.campaign-archive1.com/?u=7fc03907e1ab2f93d73154bac&id=0bb53f487f)
 
-	*Hack night
+	- Hack night
 
-	*Wordpress support night.
+	- Wordpress support night.
 
-	*Psuedo selectors
+	- Psuedo selectors
 		-linking
 		-visited
 		-hover
