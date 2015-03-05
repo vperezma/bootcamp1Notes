@@ -22,7 +22,7 @@
 
 ##7:15 -7:30 Final projects with Vanessa.
 
-##7:30 - 8:30 GitHub intro/walkthrough.
+##7:30 - 8:30 GitHub intro/walkthrough.[github notes](http://vperezma.github.io/bc1git/)
 
 ##8:30 - 8:45 Questions.
 
