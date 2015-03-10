@@ -9,7 +9,7 @@ http://www.w3schools.com/css/css_boxmodel.asp
 + 7:00 - 7:15 = Break
 		Take a break.
 
-+7:15 - 8:30 = In depth teaching of floats (Sara)
++ 7:15 - 8:30 = In depth teaching of floats (Sara)
 http://www.w3schools.com/css/css_float.asp 
 
 
