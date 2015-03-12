@@ -3,6 +3,7 @@
 
 + 6:30 - 7:30 = Positioning (Victor)
 
+http://vperezma.github.io/positioning/
 
 + 7:30 - 7:45 = Break
 		Take a break.
